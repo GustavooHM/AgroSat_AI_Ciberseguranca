@@ -1,0 +1,12 @@
+Projeto: AgroSat AI
+Tipo: Agricultura inteligente por satélite
+
+Dados armazenados:
+- Usuários do sistema
+- Mapas agrícolas
+- Relatórios de produtividade
+- Histórico de análises
+- Resultados gerados pela inteligência artificial
+- Dados satelitais e ambientais processados
+
+Status: Banco de dados simulado para teste de backup automatizado.
